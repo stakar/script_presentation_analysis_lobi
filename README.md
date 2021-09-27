@@ -6,7 +6,8 @@ Python=>3.7, pandas
 
 ## Use
 
-Run:
+Run in command line:
+
 python analysis_script.py ..\path_to_directory\
 
 or 
