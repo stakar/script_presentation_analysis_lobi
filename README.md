@@ -12,6 +12,8 @@ python analysis_script.py ..\path_to_directory\
 or 
 
 python analysis_script.py
+
 *Output:*
+
 >>Pass path to folder:..\write_input_path_directory\
 
